@@ -1,10 +1,13 @@
 // ==UserScript==
 // @name         终版代码
 // @namespace    http://tampermonkey.net/
-// @version      7.1-debug
-// @description  逐行新增、逐行填写、逐行添加标签，带控制台调试日志
+// @version      1.0
+// @description  金马编辑器逐行新增、逐行填写、逐行添加标签（终版）
+// @author       不眠
 // @match        https://pceditor.jinma2025.com/*
 // @grant        none
+// @downloadURL  https://raw.githubusercontent.com/bumian927/jinma2025/main/main.js
+// @updateURL    https://raw.githubusercontent.com/bumian927/jinma2025/main/main.js
 // ==/UserScript==
 
 (function () {
